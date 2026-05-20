@@ -1,6 +1,6 @@
 # Gym Management System 
 [![BUILT WITH](https://img.shields.io/badge/BUILT%20WITH-Netbeans-blue)](https://netbeans.apache.org/) 
-[![License](https://img.shields.io/github/license/your-username/your-repository-name?style=plastic)](LICENSE)
+[![License](https://github.com/shabnam7213/Gym-Management-System-admin-panel-/blob/main/Gym-Management-System-master/LICENSE)](LICENSE)
 
 The GMS (Gym Management System) project is a software application that tracks, maintains, and manages all member and staff data. It is entirely constructed at the administrative level, where only the administrator has access. The project is developed using Java Programming with NetBeans IDE, JFrame (Swing), and MySQL Database. This system assists gym managers in efficiently managing customers and staff records.
 
@@ -91,4 +91,4 @@ This will successfully import the database into your system.
 ---
 
 ## License & Copyright
-Licensed under the Apache License.
+- Licensed under the Apache License.
