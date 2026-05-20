@@ -29,42 +29,48 @@ To execute the project, you will need the following:
 ### Homepage
 - The admin menu consists of Add Member, Manage Member, Trainers, Members List, Payments, and Log out
 
-![Home Page](https://github.com/your-username/your-repository-name/blob/main/screenshots/home.png)
+![Home Page](https://github.com/shabnam7213/Gym-Management-System-admin-panel-/blob/main/Gym-Management-System-master/screenshots/home.png
+)
 
 ---
 
 ### Add Member page
 - To add a member, click on the option "Add Members" from admin menu
 
-![Add Member page](https://github.com/your-username/your-repository-name/blob/main/screenshots/addmemberpage.png)
+![Add Member page](https://github.com/shabnam7213/Gym-Management-System-admin-panel-/blob/main/Gym-Management-System-master/screenshots/addmemberpage.png)
 
 ---
 
 ### Manage Member page
 - To manage members, click on the option "Manage Members" from admin menu
 
-![Manage Member page](https://github.com/your-username/your-repository-name/blob/main/screenshots/managememberpage.png)
+![Manage Member page](https://github.com/shabnam7213/Gym-Management-System-admin-panel-/blob/main/Gym-Management-System-master/screenshots/managememberpage.png
+)
 
 ---
 
 ### Trainers page
 - To add or manage trainers, click on the option "Trainers" from admin menu
 
-![Trainers page](https://github.com/your-username/your-repository-name/blob/main/screenshots/trainerpage.png)
+![Trainers page](https://github.com/shabnam7213/Gym-Management-System-admin-panel-/blob/main/Gym-Management-System-master/screenshots/trainerpage.png
+)
 
 ---
 
 ### Members List page
 - To view members, click on the option "Members List" from admin menu
 
-![Members List page](https://github.com/your-username/your-repository-name/blob/main/screenshots/memberlist.png)
+![Members List page](https://github.com/shabnam7213/Gym-Management-System-admin-panel-/blob/main/Gym-Management-System-master/screenshots/memberlist.png
+)
 
 ---
 
 ### Payments page
 - To manage payments, click on the option "Payments" from admin menu
 
-![Payments page](https://github.com/your-username/your-repository-name/blob/main/screenshots/paymentpage.png)
+![Payments page](https://github.com/shabnam7213/Gym-Management-System-admin-panel-/blob/main/Gym-Management-System-master/screenshots/paymentpage.png
+
+)
 
 ---
 
@@ -82,7 +88,7 @@ This will successfully import the database into your system.
 ---
 
 ## Contributor
-- Your Name <shabnamsingh728@gmail.com>
+- <shabnamsingh728@gmail.com>
 
 ---
 
