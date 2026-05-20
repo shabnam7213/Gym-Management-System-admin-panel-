@@ -19,7 +19,7 @@ To execute the below project, you will need the following requirements:
 ### Homepage
 - The admin menu as below, consists of Add Member, Manage Member, Trainers, Members List, Payments, and Log out
 
-![Home Page](https://github.com/quachthientai/Gym-Management-System/blob/master/screenshots/homepage.png)
+![Home Page](https://github.com/quachthientai/Gym-Management-System/blob/master/screenshots/home.png)
 
 ### Add Member page
 - To add member, click on the option "Add Members" from admin menu
