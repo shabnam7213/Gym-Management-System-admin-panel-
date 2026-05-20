@@ -22,7 +22,7 @@ To execute the project, you will need the following:
 ### Log In 
 - The user will be an admin by default, and the username and password will be {admin, admin}
 
-![Login Page](Gym-Management-System-master/screenshots/login.png)
+![Login Page](https://github.com/shabnam7213/Gym-Management-System-admin-panel-/blob/main/Gym-Management-System-master/screenshots/login.png)
 
 ---
 
