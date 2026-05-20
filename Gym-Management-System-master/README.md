@@ -10,12 +10,14 @@ The GMS (Gym Management System) project is a software application that tracks, m
 - Record Management: Member, Payment, and Trainer Management  
 
 ## System Requirements
-To execute the project, you will need the following:
 
-- MySQL Community Server  
-- MySQL JDBC Connector  
-- Java JDK 8 or above  
-- NetBeans IDE  
+To run this project successfully, install the following software:
+
+- [Java JDK](https://www.oracle.com/java/technologies/downloads/)
+- [NetBeans IDE](https://netbeans.apache.org/download/index.html)
+- [MySQL Community Server](https://dev.mysql.com/downloads/mysql/)
+- [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
+- [MySQL JDBC Connector](https://dev.mysql.com/downloads/connector/j/)
 
 ## Screenshots
 
