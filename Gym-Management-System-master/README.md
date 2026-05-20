@@ -69,7 +69,6 @@ To execute the project, you will need the following:
 - To manage payments, click on the option "Payments" from admin menu
 
 ![Payments page](https://github.com/shabnam7213/Gym-Management-System-admin-panel-/blob/main/Gym-Management-System-master/screenshots/paymentpage.png
-
 )
 
 ---
