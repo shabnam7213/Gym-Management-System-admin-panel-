@@ -29,8 +29,7 @@ To execute the project, you will need the following:
 ### Homepage
 - The admin menu consists of Add Member, Manage Member, Trainers, Members List, Payments, and Log out
 
-![Home Page](https://github.com/shabnam7213/Gym-Management-System-admin-panel-/blob/main/Gym-Management-System-master/screenshots/home.png
-)
+![Home Page](https://github.com/shabnam7213/Gym-Management-System-admin-panel-/blob/main/Gym-Management-System-master/screenshots/home.png)
 
 ---
 
