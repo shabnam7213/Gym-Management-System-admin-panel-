@@ -19,7 +19,20 @@ To run this project successfully, install the following software:
 - [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
 - [MySQL JDBC Connector](https://dev.mysql.com/downloads/connector/j/)
 
-## Screenshots
+## Dependencies
+
+The following libraries and dependencies are used in this project:
+
+| Dependency | Purpose |
+|------------|----------|
+| Java Swing | GUI Design |
+| Java AWT | UI Components |
+| JDBC API | Database Connectivity |
+| MySQL Connector/J | MySQL Database Driver |
+| JCalendar | Date Picker Component |
+| FlatLaf | Modern UI Look & Feel |
+| MySQL Database | Data Storage |
+| NetBeans IDE | Development Environment |
 
 ### Log In 
 - The user will be an admin by default, and the username and password will be {admin, admin}
