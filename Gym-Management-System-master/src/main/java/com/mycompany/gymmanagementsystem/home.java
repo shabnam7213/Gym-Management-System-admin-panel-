@@ -44,8 +44,8 @@ public class home extends javax.swing.JFrame {
 
         // ================= COLORS =================
 
-        Color background = Color.WHITE;
-        Color green = new Color(0, 120, 215);
+       Color background = new Color(214, 217, 223);
+        Color Black = new Color(0, 120, 215);
 
         // ================= SIDEBAR =================
 
@@ -55,11 +55,11 @@ public class home extends javax.swing.JFrame {
         );
         sidebar.setPreferredSize(new Dimension(250, 800));
         sidebar.setLayout(null);
-        sidebar.setBackground(new Color(245, 245, 245));
+       sidebar.setBackground(new Color(214, 217, 223));
 
         JLabel logo = new JLabel("GYM");
         logo.setBounds(80, 40, 150, 50);
-        logo.setForeground(green);
+        logo.setForeground(Black);
         logo.setFont(new Font("Segoe UI", Font.BOLD, 36));
 
         sidebar.add(logo);
@@ -87,6 +87,16 @@ public class home extends javax.swing.JFrame {
         mainPanel = new JPanel();
         mainPanel.setBackground(background);
         mainPanel.setLayout(null);
+        
+        JPanel topNavbar = new JPanel();
+
+topNavbar.setBounds(0, 0, 1200, 40);
+
+topNavbar.setBackground(new Color(0, 102, 204));
+
+topNavbar.setLayout(null);
+
+mainPanel.add(topNavbar);
 
         title = new JLabel("WELCOME BACK");
         title.setBounds(380, 50, 500, 50);
@@ -95,7 +105,7 @@ public class home extends javax.swing.JFrame {
 
         subtitle = new JLabel("GYM MANAGEMENT SYSTEM");
         subtitle.setBounds(300, 110, 700, 50);
-        subtitle.setForeground(green);
+        subtitle.setForeground(Black);
         subtitle.setFont(new Font("Segoe UI", Font.BOLD, 36));
 
         mainPanel.add(title);
@@ -250,7 +260,7 @@ public class home extends javax.swing.JFrame {
 
         panel.setBounds(x, y, 280, 170);
 
-        panel.setBackground(Color.WHITE);
+       panel.setBackground(new Color(214, 217, 223));
 
         panel.setBorder(new LineBorder(Color.BLACK, 2));
 
@@ -264,11 +274,11 @@ public class home extends javax.swing.JFrame {
 
         JLabel lblValue = new JLabel(value);
 
-        lblValue.setBounds(30, 80, 220, 50);
+lblValue.setBounds(30, 80, 220, 50);
 
-        lblValue.setForeground(new Color(0, 255, 180));
+lblValue.setForeground(Color.BLACK);
 
-        lblValue.setFont(new Font("Segoe UI", Font.BOLD, 38));
+lblValue.setFont(new Font("Segoe UI", Font.BOLD, 38));
 
         panel.add(lblTitle);
 
